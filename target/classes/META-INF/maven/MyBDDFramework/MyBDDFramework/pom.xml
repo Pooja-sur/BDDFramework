@@ -69,7 +69,7 @@
     	<version>3.5.3</version>
          <configuration> 
          		<suiteXmlFiles>
-            			<suiteXmlFile>testng.xml</suiteXmlFile>
+            			<suiteXmlFile>testng121.xml</suiteXmlFile>
           		</suiteXmlFiles>
         </configuration>
          </plugin>
